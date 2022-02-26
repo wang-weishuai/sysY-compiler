@@ -1,0 +1,2 @@
+#!/bin/zsh
+lex -o Tigger2RISCV.yy.cpp Tigger2RISCV.l && yacc -d -o Tigger2RISCV.tab.cpp Tigger2RISCV.y -Wno-yacc && g++ -std=c++17 Tigger2RISCV.yy.cpp Tigger2RISCV.tab.cpp util.cpp main.cpp  -ll -ly -o compiler -Wno-deprecated-register

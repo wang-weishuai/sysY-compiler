@@ -1,0 +1,612 @@
+f_func [2] [152]
+	t5 = a0
+	t6 = a1
+	t4 = t5 + t6
+	store t4 143
+	load  143  t4
+	store t4 92
+	t5 = 1
+	store t5 133
+	t5 = 2
+	store t5 122
+	t5 = 3
+	store t5 139
+	t5 = 4
+	store t5 103
+	t5 = 1
+	load  133  t6
+	t4 = t5 + t6
+	store t4 138
+	load  138  t4
+	store t4 141
+	t5 = 2
+	load  122  t6
+	t4 = t5 + t6
+	store t4 62
+	load  62  t4
+	store t4 104
+	t5 = 3
+	load  139  t6
+	t4 = t5 + t6
+	store t4 94
+	load  94  t4
+	store t4 108
+	t5 = 4
+	load  103  t6
+	t4 = t5 + t6
+	store t4 89
+	load  89  t4
+	store t4 135
+	t5 = 1
+	load  141  t6
+	t4 = t5 + t6
+	store t4 120
+	load  120  t4
+	store t4 61
+	t5 = 2
+	load  104  t6
+	t4 = t5 + t6
+	store t4 99
+	load  99  t4
+	store t4 126
+	t5 = 3
+	load  108  t6
+	t4 = t5 + t6
+	store t4 41
+	load  41  t4
+	store t4 127
+	t5 = 4
+	load  135  t6
+	t4 = t5 + t6
+	store t4 85
+	load  85  t4
+	store t4 119
+	t5 = 1
+	load  61  t6
+	t4 = t5 + t6
+	store t4 121
+	load  121  t4
+	store t4 114
+	t5 = 2
+	load  126  t6
+	t4 = t5 + t6
+	store t4 111
+	load  111  t4
+	store t4 113
+	t5 = 3
+	load  127  t6
+	t4 = t5 + t6
+	store t4 66
+	load  66  t4
+	store t4 110
+	t5 = 4
+	load  119  t6
+	t4 = t5 + t6
+	store t4 137
+	load  137  t4
+	store t4 117
+	t5 = 1
+	load  114  t6
+	t4 = t5 + t6
+	store t4 100
+	load  100  t4
+	store t4 140
+	t5 = 2
+	load  113  t6
+	t4 = t5 + t6
+	store t4 83
+	load  83  t4
+	store t4 87
+	t5 = 3
+	load  110  t6
+	t4 = t5 + t6
+	store t4 38
+	load  38  t4
+	store t4 124
+	t5 = 4
+	load  117  t6
+	t4 = t5 + t6
+	store t4 78
+	load  78  t4
+	store t4 107
+	t5 = 1
+	load  140  t6
+	t4 = t5 + t6
+	store t4 73
+	load  73  t4
+	store t4 109
+	t5 = 2
+	load  87  t6
+	t4 = t5 + t6
+	store t4 72
+	load  72  t4
+	store t4 106
+	t5 = 3
+	load  124  t6
+	t4 = t5 + t6
+	store t4 131
+	load  131  t4
+	store t4 42
+	t5 = 4
+	load  107  t6
+	t4 = t5 + t6
+	store t4 68
+	load  68  t4
+	store t4 102
+	t5 = 1
+	load  109  t6
+	t4 = t5 + t6
+	store t4 67
+	load  67  t4
+	store t4 112
+	t5 = 2
+	load  106  t6
+	t4 = t5 + t6
+	store t4 95
+	load  95  t4
+	store t4 116
+	t5 = 3
+	load  42  t6
+	t4 = t5 + t6
+	store t4 129
+	load  129  t4
+	store t4 46
+	t5 = 4
+	load  102  t6
+	t4 = t5 + t6
+	store t4 64
+	load  64  t4
+	store t4 101
+	t5 = 1
+	load  112  t6
+	t4 = t5 + t6
+	store t4 82
+	load  82  t4
+	store t4 98
+	t5 = 2
+	load  116  t6
+	t4 = t5 + t6
+	store t4 74
+	load  74  t4
+	store t4 125
+	t5 = 3
+	load  46  t6
+	t4 = t5 + t6
+	store t4 134
+	load  134  t4
+	store t4 105
+	t5 = 4
+	load  101  t6
+	t4 = t5 + t6
+	store t4 47
+	load  47  t4
+	store t4 97
+	t5 = 1
+	load  98  t6
+	t4 = t5 + t6
+	store t4 63
+	load  63  t4
+	store t4 88
+	t5 = 2
+	load  125  t6
+	t4 = t5 + t6
+	store t4 60
+	load  60  t4
+	store t4 52
+	t5 = 3
+	load  105  t6
+	t4 = t5 + t6
+	store t4 77
+	load  77  t4
+	store t4 96
+	t5 = 4
+	load  97  t6
+	t4 = t5 + t6
+	store t4 59
+	load  59  t4
+	store t4 35
+	t5 = a0
+	t6 = a1
+	t4 = t5 - t6
+	store t4 58
+	load  58  t5
+	t4 = t5 + 10
+	store t4 130
+	load  130  t4
+	store t4 92
+	t5 = 1
+	load  98  t6
+	t4 = t5 + t6
+	store t4 56
+	load  56  t4
+	store t4 88
+	t5 = 2
+	load  125  t6
+	t4 = t5 + t6
+	store t4 81
+	load  81  t4
+	store t4 52
+	t5 = 3
+	load  105  t6
+	t4 = t5 + t6
+	store t4 55
+	load  55  t4
+	store t4 96
+	t5 = 4
+	load  97  t6
+	t4 = t5 + t6
+	store t4 65
+	load  65  t4
+	store t4 35
+	t5 = 1
+	load  112  t6
+	t4 = t5 + t6
+	store t4 53
+	load  53  t4
+	store t4 98
+	t5 = 2
+	load  116  t6
+	t4 = t5 + t6
+	store t4 51
+	load  51  t4
+	store t4 125
+	t5 = 3
+	load  46  t6
+	t4 = t5 + t6
+	store t4 75
+	load  75  t4
+	store t4 105
+	t5 = 4
+	load  101  t6
+	t4 = t5 + t6
+	store t4 43
+	load  43  t4
+	store t4 97
+	t5 = 1
+	load  109  t6
+	t4 = t5 + t6
+	store t4 123
+	load  123  t4
+	store t4 112
+	t5 = 2
+	load  106  t6
+	t4 = t5 + t6
+	store t4 40
+	load  40  t4
+	store t4 116
+	t5 = 3
+	load  42  t6
+	t4 = t5 + t6
+	store t4 39
+	load  39  t4
+	store t4 46
+	t5 = 4
+	load  102  t6
+	t4 = t5 + t6
+	store t4 49
+	load  49  t4
+	store t4 101
+	t5 = 1
+	load  140  t6
+	t4 = t5 + t6
+	store t4 84
+	load  84  t4
+	store t4 109
+	t5 = 2
+	load  87  t6
+	t4 = t5 + t6
+	store t4 36
+	load  36  t4
+	store t4 106
+	t5 = 3
+	load  124  t6
+	t4 = t5 + t6
+	store t4 115
+	load  115  t4
+	store t4 42
+	t5 = 4
+	load  107  t6
+	t4 = t5 + t6
+	store t4 80
+	load  80  t4
+	store t4 102
+	t5 = 1
+	load  114  t6
+	t4 = t5 + t6
+	store t4 34
+	load  34  t4
+	store t4 140
+	t5 = 2
+	load  113  t6
+	t4 = t5 + t6
+	store t4 50
+	load  50  t4
+	store t4 87
+	t5 = 3
+	load  110  t6
+	t4 = t5 + t6
+	store t4 54
+	load  54  t4
+	store t4 124
+	t5 = 4
+	load  117  t6
+	t4 = t5 + t6
+	store t4 32
+	load  32  t4
+	store t4 107
+	t5 = 1
+	load  61  t6
+	t4 = t5 + t6
+	store t4 31
+	load  31  t4
+	store t4 114
+	t5 = 2
+	load  126  t6
+	t4 = t5 + t6
+	store t4 136
+	load  136  t4
+	store t4 113
+	t5 = 3
+	load  127  t6
+	t4 = t5 + t6
+	store t4 71
+	load  71  t4
+	store t4 110
+	t5 = 4
+	load  119  t6
+	t4 = t5 + t6
+	store t4 48
+	load  48  t4
+	store t4 117
+	t5 = 1
+	load  141  t6
+	t4 = t5 + t6
+	store t4 69
+	load  69  t4
+	store t4 61
+	t5 = 2
+	load  104  t6
+	t4 = t5 + t6
+	store t4 93
+	load  93  t4
+	store t4 126
+	t5 = 3
+	load  108  t6
+	t4 = t5 + t6
+	store t4 30
+	load  30  t4
+	store t4 127
+	t5 = 4
+	load  135  t6
+	t4 = t5 + t6
+	store t4 57
+	load  57  t4
+	store t4 119
+	t5 = 1
+	load  133  t6
+	t4 = t5 + t6
+	store t4 29
+	load  29  t4
+	store t4 141
+	t5 = 2
+	load  122  t6
+	t4 = t5 + t6
+	store t4 28
+	load  28  t4
+	store t4 104
+	t5 = 3
+	load  139  t6
+	t4 = t5 + t6
+	store t4 27
+	load  27  t4
+	store t4 108
+	t5 = 4
+	load  103  t6
+	t4 = t5 + t6
+	store t4 25
+	load  25  t4
+	store t4 135
+	t5 = 1
+	load  88  t6
+	t4 = t5 + t6
+	store t4 142
+	load  142  t4
+	store t4 133
+	t5 = 2
+	load  52  t6
+	t4 = t5 + t6
+	store t4 76
+	load  76  t4
+	store t4 122
+	t5 = 3
+	load  96  t6
+	t4 = t5 + t6
+	store t4 24
+	load  24  t4
+	store t4 139
+	t5 = 4
+	load  35  t6
+	t4 = t5 + t6
+	store t4 26
+	load  26  t4
+	store t4 103
+	load  92  t5
+	load  133  t6
+	t4 = t5 + t6
+	store t4 23
+	load  23  t5
+	load  122  t6
+	t4 = t5 + t6
+	store t4 22
+	load  22  t5
+	load  139  t6
+	t4 = t5 + t6
+	store t4 128
+	load  128  t5
+	load  103  t6
+	t4 = t5 + t6
+	store t4 21
+	load  21  t5
+	load  141  t6
+	t4 = t5 - t6
+	store t4 118
+	load  118  t5
+	load  104  t6
+	t4 = t5 - t6
+	store t4 45
+	load  45  t5
+	load  108  t6
+	t4 = t5 - t6
+	store t4 37
+	load  37  t5
+	load  135  t6
+	t4 = t5 - t6
+	store t4 20
+	load  20  t5
+	load  61  t6
+	t4 = t5 + t6
+	store t4 18
+	load  18  t5
+	load  126  t6
+	t4 = t5 + t6
+	store t4 17
+	load  17  t5
+	load  127  t6
+	t4 = t5 + t6
+	store t4 16
+	load  16  t5
+	load  119  t6
+	t4 = t5 + t6
+	store t4 91
+	load  91  t5
+	load  114  t6
+	t4 = t5 - t6
+	store t4 90
+	load  90  t5
+	load  113  t6
+	t4 = t5 - t6
+	store t4 86
+	load  86  t5
+	load  110  t6
+	t4 = t5 - t6
+	store t4 15
+	load  15  t5
+	load  117  t6
+	t4 = t5 - t6
+	store t4 14
+	load  14  t5
+	load  140  t6
+	t4 = t5 + t6
+	store t4 13
+	load  13  t5
+	load  87  t6
+	t4 = t5 + t6
+	store t4 79
+	load  79  t5
+	load  124  t6
+	t4 = t5 + t6
+	store t4 12
+	load  12  t5
+	load  107  t6
+	t4 = t5 + t6
+	store t4 11
+	load  11  t5
+	load  109  t6
+	t4 = t5 - t6
+	store t4 10
+	load  10  t5
+	load  106  t6
+	t4 = t5 - t6
+	store t4 70
+	load  70  t5
+	load  42  t6
+	t4 = t5 - t6
+	store t4 9
+	load  9  t5
+	load  102  t6
+	t4 = t5 - t6
+	store t4 8
+	load  8  t5
+	load  112  t6
+	t4 = t5 + t6
+	store t4 6
+	load  6  t5
+	load  116  t6
+	t4 = t5 + t6
+	store t4 5
+	load  5  t5
+	load  46  t6
+	t4 = t5 + t6
+	store t4 44
+	load  44  t5
+	load  101  t6
+	t4 = t5 + t6
+	store t4 19
+	load  19  t5
+	load  98  t6
+	t4 = t5 - t6
+	store t4 33
+	load  33  t5
+	load  125  t6
+	t4 = t5 - t6
+	store t4 4
+	load  4  t5
+	load  105  t6
+	t4 = t5 - t6
+	store t4 3
+	load  3  t5
+	load  97  t6
+	t4 = t5 - t6
+	store t4 2
+	load  2  t5
+	load  88  t6
+	t4 = t5 + t6
+	store t4 132
+	load  132  t5
+	load  52  t6
+	t4 = t5 + t6
+	store t4 7
+	load  7  t5
+	load  96  t6
+	t4 = t5 + t6
+	store t4 1
+	load  1  t5
+	load  35  t6
+	t4 = t5 + t6
+	store t4 0
+	load  0  a0
+	return
+end f_func
+f_main [0] [14]
+	t5 = 1
+	store t5 5
+	load  5  t5
+	t4 = t5 + 18
+	store t4 2
+	load  2  t4
+	store t4 3
+	load  5  t4
+	store t4 0
+	load  3  t4
+	store t4 1
+	store  a0 13
+	store  a1 12
+	store  a2 11
+	store  a3 10
+	store  a4 9
+	store  a5 8
+	store  a6 7
+	store  a7 6
+	load  0  t5
+	a0 = t5
+	load  1  t5
+	a1 = t5
+	call  f_func
+	store  a0  4
+	load  13 a0
+	load  12 a1
+	a0 = 10
+	call f_putch
+	load  4  a0
+	return
+end f_main

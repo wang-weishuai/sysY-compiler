@@ -1,0 +1,9 @@
+f_main [0] [9]
+	call  f_ifElse
+	store  a0  0
+	a0 = 10
+	call f_putch
+	load  0  a0
+	return
+end f_main
+

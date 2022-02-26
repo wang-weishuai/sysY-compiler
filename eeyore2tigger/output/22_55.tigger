@@ -1,0 +1,30 @@
+f_ifElse [0] [11]
+	t5 = 5
+	store t5 
+	load    t5
+	t4 = t5 == 5
+	store t4 
+	load    t5
+	t6 = 0
+	if  t5 == t6  goto l0
+	t5 = 25
+	store t5 
+	goto l1
+l0:
+	load    t5
+	t4 = t5 * 2
+	store t4 
+	load    t4
+	store t4 
+l1:
+	load    a0
+	return
+end f_ifElse
+f_main [0] [9]
+	call  f_ifElse
+	store  a0  
+	a0 = 10
+	call f_putch
+	load    a0
+	return
+end f_main
