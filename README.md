@@ -8,5 +8,7 @@ It is difficult to implement it in one step, so I split the process into three s
     sysY   -- eeyore
     eeyore -- tigger
     tigger -- riscV
+![image](https://github.com/wang-weishuai/sysY-compiler/blob/main/img/img2.png)
 
 This seems to complicate the task, but actually it greatly simplifies the logic of the code and we can code and debug easier than before.
+![image](https://github.com/wang-weishuai/sysY-compiler/blob/main/img/compilerimg3.png)
